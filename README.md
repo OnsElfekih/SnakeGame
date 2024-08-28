@@ -35,7 +35,7 @@ Avoid colliding with the snake's own body or the edges of the board.
 The game will display "Game Over" when the snake collides with itself or the boundary.
 The score, which reflects the snake's length, is displayed at the top of the screen.
 
-##Files Included
+## Files Included
 App.java: The main class that initializes the game window and starts the game.
 SnakeGame.java: The core game logic, including movement, rendering, food placement, and collision detection.
 
